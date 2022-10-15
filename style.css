@@ -1,0 +1,117 @@
+.collapse:not(.show) {
+    display: flex;
+}
+.card{
+    margin-bottom: 20px !important;
+}
+.banner-section{
+    background: #F9F9FF !important; 
+}
+.banner-section h1{
+    font-weight: 400 !important;
+}
+.banner-section span{
+    font-weight: 400 !important;
+}
+.banner-section .btnn{
+    color: #fff;
+    background:#808CF8;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 6px;
+    margin-top: 20px;
+}
+.about-section h1{
+    font-weight: 400 !important;
+}
+.about-section span{
+    font-weight: 400 !important;
+}
+.about-section .btnn{
+    color: #fff;
+    background:#808CF8;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 6px;
+    margin-top: 20px;
+}
+
+.counter-section{
+    background: #808CF8;
+}
+.counter-section .card{
+    /* margin-bottom: 30px; */
+}
+.counter-section h2{
+    font-size: 50px;
+}
+.pricing-section{
+    background: #F8F8FE;
+    padding-bottom: 80px;
+}
+.pricing-section .card{
+    box-shadow: 1px 1px 40px 0 #808cf880;
+}
+.pricing-section .card h2{
+    display: inline-block;
+    background: #F7F7FD;
+    /* width: 0px; */
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+.pricing-section .card a{
+    text-decoration: none;
+    color: #808CF8;
+    display: inline-block;
+    margin-bottom: 40px !important;
+    margin-top: 50px !important;
+    border: 1px solid #808CF8;
+    width: 30%;
+    margin: auto;
+    padding: 8px ;
+    font-weight: 500;
+    border-radius: 6px;
+    box-shadow: 1px 1px 40px 0 #808cf880;
+}
+.team-section .card{
+    position: relative;
+    border: none !important;
+    box-shadow: 1px 1px 50px 5px rgba(0, 0, 0, 0.082);
+}
+.team-section .card img{
+    position: absolute;
+    width: 6.5rem;
+    top: -3.5rem;
+    left: 1.3rem;
+}
+.team-section .card a{
+    text-decoration: none;
+    color: #000;
+    border-radius: 6px;
+    width: 40%;
+    margin: auto;
+    padding: 3px;
+    box-shadow: 1px 1px 10px 5px rgba(0, 0, 0, 0.189);
+}
+
+.contact-section{
+    background: #F9F9FF;
+}
+.contact-section form{
+    padding: 30px;
+}
+.contact-section .submit{
+    background: #17A2B8;
+    border: none;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 6px;
+}
+
+/* Hambargar Menu */
+
+
+/* input[type="checkbox"] {
+    display: none;
+} */
